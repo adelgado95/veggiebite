@@ -137,6 +137,25 @@ animation: reveal ease-in-out 0.6s;
 -ms-animation: reveal ease-in-out 0.6s;
 animation-timing-function: ease-out;
 }
+
+.side-in-1 {
+	animation: reveal ease-out 0.6s;
+	-webkit-animation: reveal ease-out 0.6s;
+	-moz-animation: reveal ease-out 0.6s;
+	-o-animation: reveal ease-out 0.6s;
+	-ms-animation: reveal ease-out 0.6s;
+	animation-timing-function: ease-out;
+	}
+
+.side-in-2 {
+	animation: reveal ease-out 0.4s;
+	-webkit-animation: reveal ease-out 0.4s;
+	-moz-animation: reveal ease-out 0.4s;
+	-o-animation: reveal ease-out 0.4s;
+	-ms-animation: reveal ease-out 0.4s;
+	animation-timing-function: ease-out;
+}
+
 .side-in-opacity {
 	animation: reveal-opacity ease-in-out 1s;
 	-webkit-animation: reveal-opacity ease-in-out 1s;
